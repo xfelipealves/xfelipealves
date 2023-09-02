@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Game Development using C++ and SDL2
+- 🔭 I’m currently working on Game Development using Godot
 - ⚡ Fun fact: I like coding
 
  ##
