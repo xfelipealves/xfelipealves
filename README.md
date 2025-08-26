@@ -1,30 +1,29 @@
-# 👋 Olá, eu sou o Felipe Camilo Alves  
+# 👋 Hi, I'm Felipe Camilo Alves  
 
 💻 **Back-end Developer | SQL Specialist | API Integrations**  
 
-Sou desenvolvedor com mais de **3 anos de experiência** em **SQL, PL/SQL, Oracle Database e Node.js**, atuando em projetos de **otimização de bancos de dados**, **integrações via APIs RESTful** e **desenvolvimento de sistemas back-end escaláveis**.  
-Meu foco é transformar dados em soluções inteligentes e eficientes, garantindo **performance, segurança e automação de processos**.  
+I am a developer with over **3 years of experience** in **SQL, PL/SQL, Oracle Database, and Node.js**, working on projects involving **database optimization**, **RESTful API integrations**, and the development of **scalable back-end systems**.  
 
 ---
 
-## 🚀 Sobre mim
-- 🛠 Experiência sólida em **desenvolvimento back-end**, **queries SQL complexas**, **procedures** e **modelagem de dados**.  
-- 📡 Atuação com **integração de sistemas via APIs RESTful** e **automação de processos**.  
-- 🧩 Conhecimento em **Docker, Azure AD, JasperReports** e ferramentas para análise e BI.  
-- 🌱 Sempre estudando **arquiteturas escaláveis, otimização de performance e análise de dados**.  
+## 🚀 About Me
+- 🛠 Experience in **back-end development**, **complex SQL queries**, **procedures**, and **data modeling**.  
+- 📡 Skilled in **system integration through RESTful APIs** and **process automation**.  
+- 🧩 Knowledge in **Docker, Azure AD, JasperReports**, and BI tools.  
+- 🌱 Continuously learning about **scalable architectures, performance optimization, and data analysis**.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Bancos de Dados**: Oracle Database, MySQL, Trino.io  
-- **Linguagens**: SQL, PL/SQL, TypeScript, Node.js, Java  
-- **Frameworks & Ferramentas**: Docker, Oracle APEX, JasperReports  
-- **Integrações**: APIs RESTful, autenticação e controle de acesso  
-- **Outros**: Modelagem de dados, BI, automação de processos  
+## 🛠️ Technologies & Tools
+- **Databases**: Oracle Database, MySQL, PostgreSQL  
+- **Languages**: SQL, PL/SQL, TypeScript, Node.js, Java  
+- **Frameworks & Tools**: Docker, Oracle APEX, JasperReports  
+- **Integrations**: RESTful APIs, authentication, and access control  
+- **Other**: Data modeling, BI, process automation  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/xfelipealves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xfelipealves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -34,7 +33,7 @@ Meu foco é transformar dados em soluções inteligentes e eficientes, garantind
 
 ---
 
-## 🌐 Vamos nos conectar
+## 🌐 Let's Connect
 <div>
   <a href="mailto:felipecamiloalves04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/felipe-camilo-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
