@@ -1,24 +1,26 @@
 # 👋 Olá, eu sou o Felipe Camilo Alves  
 
-🎮 **Game Developer | Software Engineer | Problem Solver**  
+💻 **Back-end Developer | SQL Specialist | API Integrations**  
 
-Sou apaixonado por **desenvolvimento de jogos** e **tecnologia**. Atualmente, estou explorando o potencial do **Godot Engine** para criar experiências imersivas e desafiadoras. Além de games, tenho interesse em **engenharia de software**, sempre buscando aprender novas ferramentas, linguagens e boas práticas para evoluir como desenvolvedor.  
+Sou desenvolvedor com mais de **3 anos de experiência** em **SQL, PL/SQL, Oracle Database e Node.js**, atuando em projetos de **otimização de bancos de dados**, **integrações via APIs RESTful** e **desenvolvimento de sistemas back-end escaláveis**.  
+Meu foco é transformar dados em soluções inteligentes e eficientes, garantindo **performance, segurança e automação de processos**.  
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em projetos de **Game Development** com **Godot**.  
-- 💡 Curioso por **ciência da computação, IA e design de jogos**.  
-- 🌱 Sempre aprendendo algo novo em **algoritmos, engines e arquiteturas de software**.  
-- ⚡ Fato curioso: gosto de transformar ideias simples em soluções criativas com código.  
+- 🛠 Experiência sólida em **desenvolvimento back-end**, **queries SQL complexas**, **procedures** e **modelagem de dados**.  
+- 📡 Atuação com **integração de sistemas via APIs RESTful** e **automação de processos**.  
+- 🧩 Conhecimento em **Docker, Azure AD, JasperReports** e ferramentas para análise e BI.  
+- 🌱 Sempre estudando **arquiteturas escaláveis, otimização de performance e análise de dados**.  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: C#, Python, GDScript, JavaScript  
-- **Engines**: Godot Engine, Unity  
-- **Versionamento**: Git & GitHub  
-- **Outros interesses**: Bancos de dados, APIs, automação e ferramentas de produtividade  
+- **Bancos de Dados**: Oracle Database, MySQL, Trino.io  
+- **Linguagens**: SQL, PL/SQL, TypeScript, Node.js, Java  
+- **Frameworks & Ferramentas**: Docker, Oracle APEX, JasperReports  
+- **Integrações**: APIs RESTful, autenticação e controle de acesso  
+- **Outros**: Modelagem de dados, BI, automação de processos  
 
 ---
 
@@ -32,7 +34,7 @@ Sou apaixonado por **desenvolvimento de jogos** e **tecnologia**. Atualmente, es
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Vamos nos conectar
 <div>
   <a href="mailto:felipecamiloalves04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/felipe-camilo-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
