@@ -1,29 +1,31 @@
 # 👋 Hi, I'm Felipe Camilo Alves  
 
-💻 **Back-end Developer | SQL Specialist | API Integrations**  
-
-I am a developer with over **3 years of experience** in **SQL, PL/SQL, Oracle Database, and Node.js**, working on projects involving **database optimization**, **RESTful API integrations**, and the development of **scalable back-end systems**.  
+### **Computer Scientist | Backend Engineer | SQL & Database Specialist** I am a Software Engineer with over **3 years of experience** focused on building robust back-end ecosystems. My expertise lies in architecting **high-performance SQL/PL/SQL solutions**, optimizing **Oracle Databases**, and developing scalable services with **Node.js and TypeScript**.
 
 ---
 
-## 🚀 About Me
-- 🛠 Experience in **back-end development**, **complex SQL queries**, **procedures**, and **data modeling**.  
-- 📡 Skilled in **system integration through RESTful APIs** and **process automation**.  
-- 🧩 Knowledge in **Docker, Azure AD, JasperReports**, and BI tools.  
-- 🌱 Continuously learning about **scalable architectures, performance optimization, and data analysis**.  
+## 🛠️ Technical Expertise
+
+- **Backend Development**: Crafting RESTful APIs and microservices using **Node.js, TypeScript, and Java**.
+- **Database Engineering**: Advanced knowledge in **SQL & PL/SQL**, procedures optimization, data modeling, and performance tuning (Oracle, MySQL, PostgreSQL).
+- **Integrations & Devops**: Skilled in **API Integrations**, **Docker** containerization, and **Azure AD** authentication.
+- **Data & AI**: Experience with **JasperReports**, BI tools, and a growing focus on **Natural Language Processing (NLP)** and Large Language Models (LLMs).
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Databases**: Oracle Database, MySQL, PostgreSQL  
-- **Languages**: SQL, PL/SQL, TypeScript, Node.js, Java  
-- **Frameworks & Tools**: Docker, Oracle APEX, JasperReports  
-- **Integrations**: RESTful APIs, authentication, and access control  
-- **Other**: Data modeling, BI, process automation  
+## 🔧 Technologies & Tools
+
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | SQL, PL/SQL, TypeScript, Node.js, Java |
+| **Databases** | Oracle Database, PostgreSQL, MySQL |
+| **Frameworks/Tools** | Oracle APEX, JasperReports, Docker |
+| **Integrations** | RESTful APIs, OAuth2, Process Automation |
+| **Interests** | NLP, Scalable Architecture, AI Music Generation |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Ecosystem
 <div align="center">
   <a href="https://github.com/xfelipealves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xfelipealves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
