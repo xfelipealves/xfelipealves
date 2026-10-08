@@ -22,11 +22,44 @@ reliable integrations, payment workflows, and tools that reduce manual work.
 
 ## Tech stack
 
-- Backend: Node.js, TypeScript, JavaScript, Express.js
-- APIs and integrations: REST, OpenAPI, OAuth 2.0, RabbitMQ, webhooks
-- Databases: MySQL, PostgreSQL
-- Frontend and tooling: React, Docker, Git, GitHub Actions
-- Enterprise systems: Oracle APEX, PL/SQL
+<table>
+  <tr>
+    <td><strong>Languages & frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-404040?style=flat&logo=express&logoColor=white" alt="Express.js">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & messaging</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Development & delivery</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Enterprise systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle_APEX-B32624?style=flat" alt="Oracle APEX">
+      <img src="https://img.shields.io/badge/PL%2FSQL-B32624?style=flat" alt="PL/SQL">
+    </td>
+  </tr>
+</table>
+
+**APIs & integrations:** REST · OpenAPI · OAuth 2.0 · Webhooks<br>
+**Engineering practices:** Automated testing · Idempotency · Retries · Failure isolation
 
 ## Selected projects
 
