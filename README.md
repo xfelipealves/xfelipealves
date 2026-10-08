@@ -30,55 +30,36 @@ reliable integrations, payment workflows, and tools that reduce manual work.
 
 ## Selected projects
 
-### [AI Pulse](https://github.com/xfelipealves/AI-Pulse)
-
-<a href="https://github.com/xfelipealves/AI-Pulse">
-  <img src="https://raw.githubusercontent.com/xfelipealves/AI-Pulse/main/docs/images/banner.png" alt="AI Pulse: macOS menu bar app showing AI coding usage across multiple providers and demo accounts" width="100%">
-</a>
-
-A macOS menu bar app that brings AI coding usage limits into one place.
-
-- Tracks usage across providers including Codex, Claude Code, and Cursor.
-- Supports multiple accounts and configurable refresh intervals.
-
-**Built with:** TypeScript, React, Electron<br>
-[Explore the code](https://github.com/xfelipealves/AI-Pulse) · [Download for macOS](https://github.com/xfelipealves/AI-Pulse/releases/latest)
-
----
-
-### [SystemMonitor](https://github.com/xfelipealves/SystemMonitor)
-
-<a href="https://github.com/xfelipealves/SystemMonitor">
-  <img src="https://raw.githubusercontent.com/xfelipealves/SystemMonitor/main/docs/preview.svg" alt="SystemMonitor illustration: CPU, memory, and disk indicators with a menu of application resource usage" width="100%">
-</a>
-
-A native macOS menu bar app for monitoring CPU, memory, and disk usage.
-
-- Groups processes by application and displays resource usage.
-- Supports Apple Silicon and Intel Macs.
-
-**Built with:** Swift, native macOS APIs, no external dependencies<br>
-[Explore the code](https://github.com/xfelipealves/SystemMonitor) · [Download for macOS](https://github.com/xfelipealves/SystemMonitor/releases/latest)
-
-<sub>AI Pulse uses demo accounts; the SystemMonitor preview is an illustration.</sub>
-
----
-
-### [Mini Discord](https://github.com/xfelipealves/mini-discord)
-
-An educational chat API for exploring ScyllaDB data modeling and consistency.
-
-```mermaid
-flowchart LR
-    Browser["Browser client<br>Messages and channel history"] -->|HTTP / JSON| API["TypeScript + Express<br>Validation and pagination"]
-    API -->|CQL| DB[("ScyllaDB<br>Channel partitions and TimeUUID ordering")]
-```
-
-- Cursor pagination, configurable consistency, and LWT-based deduplication.
-- Docker Compose setups for single-node and three-node database experiments.
-
-**Built with:** TypeScript, Express, ScyllaDB, Docker<br>
-[Explore the code and architecture](https://github.com/xfelipealves/mini-discord)
+<table>
+  <tr>
+    <td width="72" align="center">
+      <a href="https://github.com/xfelipealves/AI-Pulse"><img src="https://raw.githubusercontent.com/xfelipealves/AI-Pulse/main/docs/images/icon.png" alt="AI Pulse icon" width="48" height="48"></a>
+    </td>
+    <td>
+      <a href="https://github.com/xfelipealves/AI-Pulse"><strong>AI Pulse</strong></a><br>
+      AI coding usage limits in the macOS menu bar, with multiple providers and accounts.<br>
+      <sub>TypeScript · React · Electron</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <a href="https://github.com/xfelipealves/SystemMonitor"><img src="https://raw.githubusercontent.com/xfelipealves/SystemMonitor/main/docs/icon.png" alt="SystemMonitor icon" width="48" height="48"></a>
+    </td>
+    <td>
+      <a href="https://github.com/xfelipealves/SystemMonitor"><strong>SystemMonitor</strong></a><br>
+      Native macOS menu bar app for CPU, memory, disk, and application resource usage.<br>
+      <sub>Swift · Native macOS APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">💬</td>
+    <td>
+      <a href="https://github.com/xfelipealves/mini-discord"><strong>Mini Discord</strong></a><br>
+      Educational chat API exploring pagination, deduplication, and database consistency.<br>
+      <sub>TypeScript · Express · ScyllaDB · Docker</sub>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
