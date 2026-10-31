@@ -1,6 +1,6 @@
 # Felipe Alves
 
-Software Engineer based in Brazil, with 4+ years of professional experience
+Software Engineer based in Brazil, with 7+ years of professional experience
 building APIs, integrations, and business applications with Node.js,
 TypeScript, and React.
 
