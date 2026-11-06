@@ -1,35 +1,37 @@
 # Felipe Alves
 
-Software Engineer based in Brazil, with 7+ years of professional experience
-building APIs, integrations, and business applications with Node.js,
-TypeScript, and React.
+Senior AI Software Engineer based in Brazil, with 7+ years of experience building production-grade software. I connect AI to enterprise data and business workflows, with a focus on Generative AI, RAG, and LLMOps alongside backend engineering with Node.js and TypeScript.
 
-I work across backend services and frontend interfaces, with a focus on
-reliable integrations, payment workflows, and tools that reduce manual work.
+I have developed an LLM-powered application that analyzes health questionnaires to support customer risk classification. My backend work includes APIs, distributed systems, integrations, and payment workflows designed for reliability in production.
 
 ## Selected experience
 
-- Architected an asynchronous enrollment pipeline with persisted state,
-  exponential backoff, idempotent recovery, and failure isolation.
-- Built a payment integration layer with 29 REST endpoints covering
-  PIX, boleto, cards, tokenization, payment links, and reconciliation.
-- Standardized integrations across six external platforms using
-  reusable services, centralized retries, RabbitMQ, and webhooks.
-- Led a five-person engineering team delivering public grant and
-  financial management systems.
-- Built business integrations and operational automation that saved
-  250+ hours of manual work annually.
+- Developed an LLM-powered application to analyze health questionnaires and support customer risk classification.
+- Architected an asynchronous enrollment pipeline with persisted state, exponential backoff, idempotent recovery, and failure isolation.
+- Built a payment integration layer with 29 REST endpoints covering PIX, boleto, cards, tokenization, payment links, and reconciliation.
+- Standardized integrations across six external platforms using reusable services, centralized retries, RabbitMQ, and webhooks.
+- Led a five-person engineering team delivering public grant and financial management systems.
+- Built business integrations and operational automation that saved 250+ hours of manual work annually.
 
 ## Tech stack
 
 <table>
   <tr>
+    <td><strong>AI focus</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat" alt="Generative AI">
+      <img src="https://img.shields.io/badge/RAG-5A45FF?style=flat" alt="RAG">
+      <img src="https://img.shields.io/badge/LLMOps-1F6FEB?style=flat" alt="LLMOps">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="LangChain">
+    </td>
+  </tr>
+  <tr>
     <td><strong>Languages & frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Express-404040?style=flat&logo=express&logoColor=white" alt="Express.js">
     </td>
   </tr>
@@ -59,7 +61,7 @@ reliable integrations, payment workflows, and tools that reduce manual work.
 </table>
 
 **APIs & integrations:** REST · OpenAPI · OAuth 2.0 · Webhooks<br>
-**Engineering practices:** Automated testing · Idempotency · Retries · Failure isolation
+**Engineering practices:** Automated testing · Idempotency · Retries · Failure isolation · Observability
 
 ## Selected projects
 
